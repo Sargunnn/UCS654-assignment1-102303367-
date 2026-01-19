@@ -77,6 +77,5 @@ Web Application Usage
 5.4.Enter email address
 6.Submit the form
 
-✔ Result CSV file is emailed to the user automatically
 
 
